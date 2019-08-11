@@ -1,0 +1,31 @@
+_repo: The-Secret-of-Heroism-A-Memoir-of-Henry-Albert-Harper_60039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, William Lyon Mackenzie
+    aliases:
+    - King, Mackenzie
+    - King, W. L. Mackenzie (William Lyon Mackenzie)
+    - Mackenzie King, William Lyon
+    - King, William L. Mackenzie
+    birthdate: 1874
+    deathdate: 1950
+    gutenberg_agent_id: '50756'
+    url: http://www.gutenberg.org/2009/agents/50756
+    wikipedia: https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60039'
+  lccn: '06003117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harper, Henry Albert, 1873-1901'
+- !lcc 'CT'
+- GITenberg
+title: 'The Secret of Heroism: A Memoir of Henry Albert Harper'
+url: http://www.gutenberg.org/ebooks/60039
